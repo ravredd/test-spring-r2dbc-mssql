@@ -37,3 +37,4 @@ dockerBuild.sh
 dockerPush.sh
 docker-compose.yml
 test-results.csv
+jmeter.log
