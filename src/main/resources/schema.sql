@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS post;
+CREATE TABLE post
+(
+    id INT IDENTITY PRIMARY KEY,
+    title VARCHAR(255) NULL,
+    content VARCHAR(255) NULL
+);
